@@ -5,7 +5,11 @@
 ▫️ Comprehensive analysis of Walmart’s sales performance using interactive dashboards
 ▫️ Focus on profitability, customer behavior, and branch-wise performance
 ▫️ Helps stakeholders make data-driven business decisions
-![bb3a7d2c-10d1-40b4-953a-94b95d8f6680](https://github.com/user-attachments/assets/85d64d77-09d5-44bb-abc4-6013440a2827)
+
+
+
+![bb3a7d2c-10d1-40b4-953a-94b95d8f6680](https://github.com/user-attachments/assets/4f5af5ea-0bed-40f9-9a8b-102a504a238c)
+
 
 
 🎯 Objectives:
