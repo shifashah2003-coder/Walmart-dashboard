@@ -8,8 +8,7 @@
 
 
 
-![bb3a7d2c-10d1-40b4-953a-94b95d8f6680](https://github.com/user-attachments/assets/4f5af5ea-0bed-40f9-9a8b-102a504a238c)
-
+<img width="1107" height="700" alt="image" src="https://github.com/user-attachments/assets/f619dba0-6b6b-4e6f-b80c-74bde57f908e" />
 
 
 🎯 Objectives:
