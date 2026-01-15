@@ -26,6 +26,24 @@
 -Track profitability, margin percentage, and tax contribution
 
 
+🧩 Custom Tooltip:
+
+<img width="1280" height="803" alt="image" src="https://github.com/user-attachments/assets/4834b382-3fcd-440a-82b4-4d84b03d48f4" />
+
+
+This project includes a dedicated Tooltip page designed to display deeper insights when users hover over visuals.
+
+The tooltip shows:
+
+Gross income by gender
+
+Quick comparison between Male and Female customers
+
+Contextual revenue information without switching pages
+
+Instead of cluttering the main dashboard, this tooltip provides on-demand details, making the report more interactive, clean, and user-friendly.
+
+
 📊 Key Metrics & KPIs:
 
 📈 Margin Percentage: 4.76%
