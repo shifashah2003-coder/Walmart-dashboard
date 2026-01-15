@@ -43,6 +43,9 @@ Contextual revenue information without switching pages
 
 Instead of cluttering the main dashboard, this tooltip provides on-demand details, making the report more interactive, clean, and user-friendly.
 
+<img width="1095" height="646" alt="image" src="https://github.com/user-attachments/assets/062cc139-9b6a-4e35-9ba8-8237bc6a2cbf" />
+
+
 
 📊 Key Metrics & KPIs:
 
